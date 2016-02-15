@@ -1,0 +1,472 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{45626E6A-861B-4CA7-AD35-E9C660E01668}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MobileSRC.MobileRemote</RootNamespace>
+    <AssemblyName>MobileRemote</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <OSVersion>5.02</OSVersion>
+    <DeployDirSuffix>MobileSrc\mobileremote</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+    <ApplicationIcon>Dialogs\mobileremote.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Marketplace|AnyCPU' ">
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <OutputPath>bin\Marketplace\</OutputPath>
+    <DefineConstants>TRACE;PocketPC</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.WindowsCE.Forms" />
+    <Reference Include="Microsoft.WindowsMobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.WindowsMobile.Status, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\CustomInput.cs" />
+    <Compile Include="Classes\HidCodes.cs" />
+    <Compile Include="Classes\TaggedMenuItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\AddressSelector.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\AddressSelector.Designer.cs">
+      <DependentUpon>AddressSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AlphaLayerControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ConnectSuccess.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ConnectSuccess.Designer.cs">
+      <DependentUpon>ConnectSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InputSelector.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\InputSelector.Designer.cs">
+      <DependentUpon>InputSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\FlowLayoutPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\StringInput.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\StringInput.Designer.cs">
+      <DependentUpon>StringInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\RoundedBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\RoundedBar.Designer.cs">
+      <DependentUpon>RoundedBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CustomMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CustomMenu.Designer.cs">
+      <DependentUpon>CustomMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Settings.cs" />
+    <Compile Include="Classes\InputSelector.cs">
+    </Compile>
+    <Compile Include="Controls\MouseOptions.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\MouseOptions.Designer.cs">
+      <DependentUpon>MouseOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SipSelector.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\SipSelector.Designer.cs">
+      <DependentUpon>SipSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inputs\PowerPointControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Inputs\CustomInputControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Inputs\MediaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CustomWindow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CustomWindow.Designer.cs">
+      <DependentUpon>CustomWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\GSensor.cs" />
+    <Compile Include="Inputs\KeyboardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes\Imaging.cs" />
+    <Compile Include="Inputs\MouseControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes\Platform.cs" />
+    <Compile Include="Classes\Resources.cs" />
+    <Compile Include="Dialogs\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TitleBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TitleBar.Designer.cs">
+      <DependentUpon>TitleBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TitleLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Inputs\TouchControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dialogs\MobileRemoteUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\MobileRemoteUI.Designer.cs">
+      <DependentUpon>MobileRemoteUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inputs\InputControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes\L2CAPAPI.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controls\AddressSelector.resx">
+      <DependentUpon>AddressSelector.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ConnectSuccess.resx">
+      <DependentUpon>ConnectSuccess.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InputSelector.resx">
+      <DependentUpon>InputSelector.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\StringInput.resx">
+      <DependentUpon>StringInput.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\RoundedBar.resx">
+      <DependentUpon>RoundedBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CustomMenu.resx">
+      <DependentUpon>CustomMenu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MouseOptions.resx">
+      <DependentUpon>MouseOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SipSelector.resx">
+      <DependentUpon>SipSelector.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inputs\PowerPointControl.resx">
+      <DependentUpon>PowerPointControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inputs\MediaControl.resx">
+      <DependentUpon>MediaControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CustomWindow.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CustomWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\MobileRemoteUI.resx">
+      <DependentUpon>MobileRemoteUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inputs\KeyboardControl.resx">
+      <DependentUpon>KeyboardControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inputs\MouseControl.resx">
+      <DependentUpon>MouseControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TitleBar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TitleBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inputs\TouchControl.resx">
+      <DependentUpon>TouchControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inputs\TouchPanel.resx">
+      <DependentUpon>TouchPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WaitForConnection.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>WaitForConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Inputs\TouchPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes\Utils.cs" />
+    <Compile Include="Controls\WaitForConnection.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WaitForConnection.Designer.cs">
+      <DependentUpon>WaitForConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Win32.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\keydown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\keyset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\windows.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\windows2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\windows.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\backspace.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\shift.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\return.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\enter.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\titlebar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\closebutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\closebuttondown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\okbuttondown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\okbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\touchpanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\titlebarcornerleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\titlebarcornerright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\arrow_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\arrow_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\arrow_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\arrow_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\orb_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\orb_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediacircle-down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediacircle-next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediacircle-prev.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediacircle-up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediaorb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediacircle-down_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediacircle-next_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediacircle-prev_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediacircle-up_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\mediaorb_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\connected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\connected_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\disconnected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\disconnected_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\keyboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\keyboard_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\keyboard_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\media.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\media_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\media_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\mouse_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\mouse_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\touch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\touch_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dialogs\images\VGA\touch_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dialogs\gcursor.ico" />
+    <Content Include="Dialogs\mobileremote.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

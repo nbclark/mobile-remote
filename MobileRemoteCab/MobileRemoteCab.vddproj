@@ -1,0 +1,2212 @@
+"DeployProject"
+{
+"VSVersion" = "3:701"
+"ProjectType" = "8:{AB322303-2255-48EF-A496-5904EB18DA55}"
+"IsWebType" = "8:FALSE"
+"ProjectName" = "8:MobileRemoteCab"
+"LanguageId" = "3:1033"
+"CodePage" = "3:1252"
+"SccProjectName" = "8:"
+"SccLocalPath" = "8:"
+"SccAuxPath" = "8:"
+"SccProvider" = "8:"
+    "Hierarchy"
+    {
+        "Entry"
+        {
+        "MsmKey" = "8:_08FE3278AC3A4220A0F60F499D507274"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0B67007F66C8DB718B5EEFBBE3D26A71"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0C4AFBC0EDB34664A3A0A63F43503BEF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0D736678973C4F8B8E013A126DDB5AFD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_12C1366898E04FE08DD3D3C29CE1D260"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_13B46053B7735493B63D76F6AE305517"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1480B5EE037740A0BD6E312E01A6D73C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_16DEDA8D264A4AE5A427172A8C86DD4B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_17BAA599F391403D8AFF3B9CD43A1B15"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_17DE8728741CDC59B0EBBAC274AA8EA7"
+        "OwnerKey" = "8:_1480B5EE037740A0BD6E312E01A6D73C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_17DE8728741CDC59B0EBBAC274AA8EA7"
+        "OwnerKey" = "8:_F8A54CF9A7BB4A4ABCF4D4669C8372C2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_17DE8728741CDC59B0EBBAC274AA8EA7"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_182EFD98F0BE4BDAB66195AFF79DFE4F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1EFC311F4A1146CBB2FBB987931DCEA1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_20059D97076943E4B06CF7C302230C3C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_271866FC66D3493AA9EE359C50E60860"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2C5477AC9ADC40B990310FF2829FAD53"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2EE27789D16C4B2DB8E794DB780D28FF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_32752DE51BED4511B48E4733EA8027C4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_338836B6D2E746B19017EBEA0252EDF3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_359B1467AA7146A8BE4E7996225D97A8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3B49F0903DD64AD998A5811F401EF49F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3B9E9CE7A5BE4F5F9AD2A5C910F31E04"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3D2EDB008D2F470D8847DBE6875DCFF4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3D7B5EEC204A47979A64B01F4378284E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4630EE02A1B94E5C86B9B228FF3ED631"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4738109DDFB14B948860156543B31E60"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4A259E04D27D44B8B8243B27B2A49B67"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4DE401B3CCDE4CFCBF81B90AD2CF1F24"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4E92536499C5F9B71903E73AA63268E0"
+        "OwnerKey" = "8:_F8A54CF9A7BB4A4ABCF4D4669C8372C2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4E92536499C5F9B71903E73AA63268E0"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4E92536499C5F9B71903E73AA63268E0"
+        "OwnerKey" = "8:_1480B5EE037740A0BD6E312E01A6D73C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4FEB720465DE43CA94B2267B6620D5B6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_56EC34D3D97B44E4BA9E378C2370654F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5A182AFB8E50422AB57E1DD3188B483E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5D9FD5C1D3EE4E6780E44AB847374AAB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_61079B893F1149B7A51FF811405215C7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_67168E7FB58C4967BA57F3FAC3517118"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_689C62D4C27F4C45BBAD697D6A228F66"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_68C6112425725A6AD42356F6A3DE412B"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6B00B2F69EBD5112D44FD600C17F2CE5"
+        "OwnerKey" = "8:_1480B5EE037740A0BD6E312E01A6D73C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6B00B2F69EBD5112D44FD600C17F2CE5"
+        "OwnerKey" = "8:_F8A54CF9A7BB4A4ABCF4D4669C8372C2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6B00B2F69EBD5112D44FD600C17F2CE5"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6E6D00F65FF648EFBC4F6D3407EC83C7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6EE5E289FE5D42FC9D72DEDDFB9FF676"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_778F67084DD849D2BD18F426E637506A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_85FCA4DE72B547F0844472322DD4C906"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_868103B1A0654A1097A648FDE57849AA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9007BFCE3C0B57644E978F2093D5BB40"
+        "OwnerKey" = "8:_F8A54CF9A7BB4A4ABCF4D4669C8372C2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9007BFCE3C0B57644E978F2093D5BB40"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9007BFCE3C0B57644E978F2093D5BB40"
+        "OwnerKey" = "8:_1480B5EE037740A0BD6E312E01A6D73C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_943BE74941EC4861840069C40CE0DBC5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_95FB646A81A74123B6F6DB279DFB4E70"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_96DDF402F0C04378A87FE751612B1621"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A375C825E33B449AB03633086ED362E6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_ADF95C0132BF438F84BC586E6121B888"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B46D50BB2584011DC25AA219873B695B"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B7791865F0978280DEBA58469724E65F"
+        "OwnerKey" = "8:_1480B5EE037740A0BD6E312E01A6D73C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B7791865F0978280DEBA58469724E65F"
+        "OwnerKey" = "8:_F8A54CF9A7BB4A4ABCF4D4669C8372C2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B7791865F0978280DEBA58469724E65F"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B970B807DB404B368E8F89614056C5B7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B9CE6ABF090140F9BA7619837A8BC772"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BD82EB9676B54B23AFF9D3E52E6BF47B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BE86ED822B57493F8691023AA75A92A7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C876B7F6A4FC496CAEA07B6D2F7B3F1F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CBF6C571A79D64404BCAFA8B87560E57"
+        "OwnerKey" = "8:_1480B5EE037740A0BD6E312E01A6D73C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CBF6C571A79D64404BCAFA8B87560E57"
+        "OwnerKey" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CD02147DED6143F08222DB2C0585839E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CF9B1DA50E684D2EA3A4493476B9FD2C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D6114BD4B555401B8BC069D588C3BD7D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D81184F38F6343F399031DD2B9A5E9EF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D8412A47A23845F49735DCF3142958C4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DFFFD523DC884A759CAD2F788C228333"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E18FB6F98058489A9A9A0FD13E53A722"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E264F77091DE46C29926447BFF4232BA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E65084F70666487588B63C135394AA04"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F124D7BCE5D3400DAD75979F8A7B52DA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F43DC47BFC514678BBC2D14D742E62BD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F59D367C58704737A62396EA42C7A796"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F8A54CF9A7BB4A4ABCF4D4669C8372C2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F8C7C55453DA4569B5D1466C13F3908F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FA58EF83CD3442DB9E127237BE21791E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FF568EAEAFD14666BE2F961FD79D9F53"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+    }
+    "Configurations"
+    {
+        "Debug"
+        {
+        "DisplayName" = "8:Debug"
+        "IsDebugOnly" = "11:TRUE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:Debug\\MobileRemoteCab.cab"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "SignOutput" = "11:FALSE"
+        "CertificateHash" = "8:"
+        "TimeStampServer" = "8:"
+        }
+        "Marketplace"
+        {
+        "DisplayName" = "8:Marketplace"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:Marketplace\\MobileRemoteCab.cab"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "SignOutput" = "11:FALSE"
+        "CertificateHash" = "8:"
+        "TimeStampServer" = "8:"
+        }
+        "Release"
+        {
+        "DisplayName" = "8:Release"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:TRUE"
+        "OutputFilename" = "8:Release\\MobileRemoteCab.cab"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "SignOutput" = "11:FALSE"
+        "CertificateHash" = "8:"
+        "TimeStampServer" = "8:"
+        }
+    }
+    "Deployable"
+    {
+        "File"
+        {
+            "{BA458234-9B71-4F46-8107-E91156377184}:_08FE3278AC3A4220A0F60F499D507274"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\media_sel.png"
+            "TargetName" = "8:media_sel.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_0B67007F66C8DB718B5EEFBBE3D26A71"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsMobile.PocketOutlook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:Microsoft.WindowsMobile.PocketOutlook.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_0C4AFBC0EDB34664A3A0A63F43503BEF"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediaorb_off.png"
+            "TargetName" = "8:mediaorb_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_12C1366898E04FE08DD3D3C29CE1D260"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\QVGA\\mediacircle-prev.png"
+            "TargetName" = "8:mediacircle-prev.png"
+            "Tag" = "8:"
+            "Folder" = "8:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_13B46053B7735493B63D76F6AE305517"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsMobile.Status, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:Microsoft.WindowsMobile.Status.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_16DEDA8D264A4AE5A427172A8C86DD4B"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediacircle-up_off.png"
+            "TargetName" = "8:mediacircle-up_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_17BAA599F391403D8AFF3B9CD43A1B15"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediacircle-up.png"
+            "TargetName" = "8:mediacircle-up.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_17DE8728741CDC59B0EBBAC274AA8EA7"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:System.Drawing.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_182EFD98F0BE4BDAB66195AFF79DFE4F"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer.mri"
+            "TargetName" = "8:MediaPlayer.mri"
+            "Tag" = "8:"
+            "Folder" = "8:_97BE991AC504481DB4C15E70073C63BF"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_1EFC311F4A1146CBB2FBB987931DCEA1"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\PS3\\VGA\\square.png"
+            "TargetName" = "8:square.png"
+            "Tag" = "8:"
+            "Folder" = "8:_941D8613F197459FAE81739DC79A18BF"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_20059D97076943E4B06CF7C302230C3C"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediacircle-up.png"
+            "TargetName" = "8:mediacircle-up.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_271866FC66D3493AA9EE359C50E60860"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediacircle-prev.png"
+            "TargetName" = "8:mediacircle-prev.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_2EE27789D16C4B2DB8E794DB780D28FF"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediacircle-down_off.png"
+            "TargetName" = "8:mediacircle-down_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_32752DE51BED4511B48E4733EA8027C4"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediacircle-prev.png"
+            "TargetName" = "8:mediacircle-prev.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_338836B6D2E746B19017EBEA0252EDF3"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\QVGA\\mediacircle-prev_off.png"
+            "TargetName" = "8:mediacircle-prev_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_359B1467AA7146A8BE4E7996225D97A8"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\PS3\\QVGA\\circle.png"
+            "TargetName" = "8:circle.png"
+            "Tag" = "8:"
+            "Folder" = "8:_1368ADB7C0274490A2A5B91C20CFE9E8"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_3B49F0903DD64AD998A5811F401EF49F"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\QVGA\\present_down.png"
+            "TargetName" = "8:present_down.png"
+            "Tag" = "8:"
+            "Folder" = "8:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_3B9E9CE7A5BE4F5F9AD2A5C910F31E04"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\media_down.png"
+            "TargetName" = "8:media_down.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_3D2EDB008D2F470D8847DBE6875DCFF4"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\QVGA\\powerpoint_off.png"
+            "TargetName" = "8:powerpoint_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_3D7B5EEC204A47979A64B01F4378284E"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\PS3\\QVGA\\cross.png"
+            "TargetName" = "8:cross.png"
+            "Tag" = "8:"
+            "Folder" = "8:_1368ADB7C0274490A2A5B91C20CFE9E8"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_4630EE02A1B94E5C86B9B228FF3ED631"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\QVGA\\present_sel.png"
+            "TargetName" = "8:present_sel.png"
+            "Tag" = "8:"
+            "Folder" = "8:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_4738109DDFB14B948860156543B31E60"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediaorb.png"
+            "TargetName" = "8:mediaorb.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_4A259E04D27D44B8B8243B27B2A49B67"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\PS3\\VGA\\triangle.png"
+            "TargetName" = "8:triangle.png"
+            "Tag" = "8:"
+            "Folder" = "8:_941D8613F197459FAE81739DC79A18BF"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_4DE401B3CCDE4CFCBF81B90AD2CF1F24"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\PS3\\VGA\\circle.png"
+            "TargetName" = "8:circle.png"
+            "Tag" = "8:"
+            "Folder" = "8:_941D8613F197459FAE81739DC79A18BF"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_4E92536499C5F9B71903E73AA63268E0"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:System.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_4FEB720465DE43CA94B2267B6620D5B6"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\media_down.png"
+            "TargetName" = "8:media_down.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_56EC34D3D97B44E4BA9E378C2370654F"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\PS3\\QVGA\\triangle.png"
+            "TargetName" = "8:triangle.png"
+            "Tag" = "8:"
+            "Folder" = "8:_1368ADB7C0274490A2A5B91C20CFE9E8"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_5A182AFB8E50422AB57E1DD3188B483E"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\ps3.kbd"
+            "TargetName" = "8:ps3.kbd"
+            "Tag" = "8:"
+            "Folder" = "8:_ED2802F3D34045A5BA35DC0A11D62DB0"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_5D9FD5C1D3EE4E6780E44AB847374AAB"
+            {
+            "SourcePath" = "8:..\\mobileremote.xml"
+            "TargetName" = "8:mobileremote.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_8808B4D137E14A5DAA1A732B87A51F98"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_61079B893F1149B7A51FF811405215C7"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\media_sel.png"
+            "TargetName" = "8:media_sel.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_67168E7FB58C4967BA57F3FAC3517118"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\media.png"
+            "TargetName" = "8:media.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_689C62D4C27F4C45BBAD697D6A228F66"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\QVGA\\present.png"
+            "TargetName" = "8:present.png"
+            "Tag" = "8:"
+            "Folder" = "8:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_68C6112425725A6AD42356F6A3DE412B"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsMobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:Microsoft.WindowsMobile.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_6B00B2F69EBD5112D44FD600C17F2CE5"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:mscorlib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_6E6D00F65FF648EFBC4F6D3407EC83C7"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediacircle-prev_off.png"
+            "TargetName" = "8:mediacircle-prev_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_6EE5E289FE5D42FC9D72DEDDFB9FF676"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\default.kbd"
+            "TargetName" = "8:default.kbd"
+            "Tag" = "8:"
+            "Folder" = "8:_ED2802F3D34045A5BA35DC0A11D62DB0"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_778F67084DD849D2BD18F426E637506A"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediacircle-up_off.png"
+            "TargetName" = "8:mediacircle-up_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_85FCA4DE72B547F0844472322DD4C906"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\media.png"
+            "TargetName" = "8:media.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_868103B1A0654A1097A648FDE57849AA"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\VGA\\powerpoint.png"
+            "TargetName" = "8:powerpoint.png"
+            "Tag" = "8:"
+            "Folder" = "8:_27226A9A89F744F7B5C071E2A8A5F24A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_9007BFCE3C0B57644E978F2093D5BB40"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:System.Xml.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_943BE74941EC4861840069C40CE0DBC5"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediacircle-next.png"
+            "TargetName" = "8:mediacircle-next.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_95FB646A81A74123B6F6DB279DFB4E70"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediacircle-prev_off.png"
+            "TargetName" = "8:mediacircle-prev_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_96DDF402F0C04378A87FE751612B1621"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediaorb_off.png"
+            "TargetName" = "8:mediaorb_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_A375C825E33B449AB03633086ED362E6"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\VGA\\mediacircle-next_off.png"
+            "TargetName" = "8:mediacircle-next_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_27226A9A89F744F7B5C071E2A8A5F24A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_ADF95C0132BF438F84BC586E6121B888"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\PS3\\QVGA\\square.png"
+            "TargetName" = "8:square.png"
+            "Tag" = "8:"
+            "Folder" = "8:_1368ADB7C0274490A2A5B91C20CFE9E8"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_B46D50BB2584011DC25AA219873B695B"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsCE.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:Microsoft.WindowsCE.Forms.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_B7791865F0978280DEBA58469724E65F"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:System.Data.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_B970B807DB404B368E8F89614056C5B7"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\VGA\\present_down.png"
+            "TargetName" = "8:present_down.png"
+            "Tag" = "8:"
+            "Folder" = "8:_27226A9A89F744F7B5C071E2A8A5F24A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_B9CE6ABF090140F9BA7619837A8BC772"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediacircle-down.png"
+            "TargetName" = "8:mediacircle-down.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_BD82EB9676B54B23AFF9D3E52E6BF47B"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\VGA\\mediacircle-prev_off.png"
+            "TargetName" = "8:mediacircle-prev_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_27226A9A89F744F7B5C071E2A8A5F24A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_BE86ED822B57493F8691023AA75A92A7"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\QVGA\\mediacircle-next_off.png"
+            "TargetName" = "8:mediacircle-next_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_C876B7F6A4FC496CAEA07B6D2F7B3F1F"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\KeyboardLayouts\\PS3\\VGA\\cross.png"
+            "TargetName" = "8:cross.png"
+            "Tag" = "8:"
+            "Folder" = "8:_941D8613F197459FAE81739DC79A18BF"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_CBF6C571A79D64404BCAFA8B87560E57"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:System.Windows.Forms.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_CD02147DED6143F08222DB2C0585839E"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediacircle-next_off.png"
+            "TargetName" = "8:mediacircle-next_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_CF9B1DA50E684D2EA3A4493476B9FD2C"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\QVGA\\mediacircle-next.png"
+            "TargetName" = "8:mediacircle-next.png"
+            "Tag" = "8:"
+            "Folder" = "8:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_D6114BD4B555401B8BC069D588C3BD7D"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediacircle-next_off.png"
+            "TargetName" = "8:mediacircle-next_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_D81184F38F6343F399031DD2B9A5E9EF"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediacircle-down_off.png"
+            "TargetName" = "8:mediacircle-down_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_D8412A47A23845F49735DCF3142958C4"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\VGA\\present.png"
+            "TargetName" = "8:present.png"
+            "Tag" = "8:"
+            "Folder" = "8:_27226A9A89F744F7B5C071E2A8A5F24A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_DFFFD523DC884A759CAD2F788C228333"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\QVGA\\powerpoint.png"
+            "TargetName" = "8:powerpoint.png"
+            "Tag" = "8:"
+            "Folder" = "8:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_E18FB6F98058489A9A9A0FD13E53A722"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\VGA\\mediacircle-prev.png"
+            "TargetName" = "8:mediacircle-prev.png"
+            "Tag" = "8:"
+            "Folder" = "8:_27226A9A89F744F7B5C071E2A8A5F24A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_E264F77091DE46C29926447BFF4232BA"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediacircle-down.png"
+            "TargetName" = "8:mediacircle-down.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_E65084F70666487588B63C135394AA04"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\VGA\\present_sel.png"
+            "TargetName" = "8:present_sel.png"
+            "Tag" = "8:"
+            "Folder" = "8:_27226A9A89F744F7B5C071E2A8A5F24A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_F124D7BCE5D3400DAD75979F8A7B52DA"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\VGA\\mediaorb.png"
+            "TargetName" = "8:mediaorb.png"
+            "Tag" = "8:"
+            "Folder" = "8:_F2C05A4B5F424EBFBE26187611F555F1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_F43DC47BFC514678BBC2D14D742E62BD"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\MediaPlayer\\QVGA\\mediacircle-next.png"
+            "TargetName" = "8:mediacircle-next.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6E334F8141724C798854968A674C43B2"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_F59D367C58704737A62396EA42C7A796"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\VGA\\mediacircle-next.png"
+            "TargetName" = "8:mediacircle-next.png"
+            "Tag" = "8:"
+            "Folder" = "8:_27226A9A89F744F7B5C071E2A8A5F24A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_F8C7C55453DA4569B5D1466C13F3908F"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint\\VGA\\powerpoint_off.png"
+            "TargetName" = "8:powerpoint_off.png"
+            "Tag" = "8:"
+            "Folder" = "8:_27226A9A89F744F7B5C071E2A8A5F24A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_FA58EF83CD3442DB9E127237BE21791E"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\CustomInputs\\PowerPoint.mri"
+            "TargetName" = "8:PowerPoint.mri"
+            "Tag" = "8:"
+            "Folder" = "8:_97BE991AC504481DB4C15E70073C63BF"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+        }
+        "Folder"
+        {
+            "{27CA7284-31D3-408F-812A-1EF9ACCDB822}:_1FDB437CC8574CC5ACC6766FC6CB1B96"
+            {
+            "Name" = "8:Application Data"
+            "Condition" = "8:"
+            "Property" = "8:CUSTOMFOLDER1"
+                "Folders"
+                {
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_8808B4D137E14A5DAA1A732B87A51F98"
+                    {
+                    "Name" = "8:AppToDate"
+                    "Condition" = "8:"
+                    "Property" = "8:_A98335466EA144A0A5FE591534617B8E"
+                        "Folders"
+                        {
+                        }
+                    }
+                }
+            }
+            "{D5B00AC1-E6C3-4CC5-90FF-8E0F53D9E5E0}:_552F608BEBCF46F2BC939954A3309DD1"
+            {
+            "DefaultLocation" = "8:%InstallDir%"
+            "Name" = "8:#1920"
+            "Condition" = "8:"
+            "Property" = "8:%InstallDir%"
+                "Folders"
+                {
+                }
+            }
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_5C6BE6F5A3674829835EAD47638927A7"
+            {
+            "Name" = "8:#1916"
+            "Condition" = "8:"
+            "Property" = "8:%CE11%"
+                "Folders"
+                {
+                }
+            }
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_A1CEE648BB124176B802184737651277"
+            {
+            "Name" = "8:#1912"
+            "Condition" = "8:"
+            "Property" = "8:%CE2%"
+                "Folders"
+                {
+                }
+            }
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_C5FD7A6A77F842CEB5408958B8ACAFDB"
+            {
+            "Name" = "8:#1911"
+            "Condition" = "8:"
+            "Property" = "8:%CE1%"
+                "Folders"
+                {
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_EE04483567604F1FA0CF8C35C978EE1D"
+                    {
+                    "Name" = "8:MobileSRC"
+                    "Condition" = "8:"
+                    "Property" = "8:_2741757257F348B9A11BBE497F349E68"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_C41D2FBBD61D475D9A6371441FCEC960"
+                            {
+                            "Name" = "8:MobileRemote"
+                            "Condition" = "8:"
+                            "Property" = "8:_A8843D011E004A4688A94467B003D029"
+                                "Folders"
+                                {
+                                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_97BE991AC504481DB4C15E70073C63BF"
+                                    {
+                                    "Name" = "8:CustomInputs"
+                                    "Condition" = "8:"
+                                    "Property" = "8:_BEC9A06AE8434F359BBC2FD9C2E03468"
+                                        "Folders"
+                                        {
+                                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_2EDF0D2A473944E1A52AF5747C6110B6"
+                                            {
+                                            "Name" = "8:PowerPoint"
+                                            "Condition" = "8:"
+                                            "Property" = "8:_427EAD59092A477EBF153CB80FEC9756"
+                                                "Folders"
+                                                {
+                                                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_27226A9A89F744F7B5C071E2A8A5F24A"
+                                                    {
+                                                    "Name" = "8:VGA"
+                                                    "Condition" = "8:"
+                                                    "Property" = "8:_7AB6C6E98CD045639D940350DD9D9E72"
+                                                        "Folders"
+                                                        {
+                                                        }
+                                                    }
+                                                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_8FA40EDC069D4C8F9EF76D9E9BE9807B"
+                                                    {
+                                                    "Name" = "8:QVGA"
+                                                    "Condition" = "8:"
+                                                    "Property" = "8:_7D83964926894DE68C038ADDA617A6B6"
+                                                        "Folders"
+                                                        {
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_38BC442F41A94CEE96CAA4903710BF44"
+                                            {
+                                            "Name" = "8:MediaPlayer"
+                                            "Condition" = "8:"
+                                            "Property" = "8:_78D8ED27110446D7B1D6867B64E9FB6C"
+                                                "Folders"
+                                                {
+                                                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_6E334F8141724C798854968A674C43B2"
+                                                    {
+                                                    "Name" = "8:QVGA"
+                                                    "Condition" = "8:"
+                                                    "Property" = "8:_2E07549DE29B47408A69E280C87E31DF"
+                                                        "Folders"
+                                                        {
+                                                        }
+                                                    }
+                                                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_F2C05A4B5F424EBFBE26187611F555F1"
+                                                    {
+                                                    "Name" = "8:VGA"
+                                                    "Condition" = "8:"
+                                                    "Property" = "8:_D83E352D5A28437BBD17A3C069A2CE57"
+                                                        "Folders"
+                                                        {
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_ED2802F3D34045A5BA35DC0A11D62DB0"
+                                    {
+                                    "Name" = "8:KeyboardLayouts"
+                                    "Condition" = "8:"
+                                    "Property" = "8:_F39AE96A4BCE427A97C844884F841E82"
+                                        "Folders"
+                                        {
+                                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_53229F9933CE44A2B49F5392802EAA84"
+                                            {
+                                            "Name" = "8:PS3"
+                                            "Condition" = "8:"
+                                            "Property" = "8:_B5D3E233B1F14325A291D9C9E72E323D"
+                                                "Folders"
+                                                {
+                                                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_1368ADB7C0274490A2A5B91C20CFE9E8"
+                                                    {
+                                                    "Name" = "8:QVGA"
+                                                    "Condition" = "8:"
+                                                    "Property" = "8:_33D34F336ABE4BC584E16FEAD2D039A7"
+                                                        "Folders"
+                                                        {
+                                                        }
+                                                    }
+                                                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_941D8613F197459FAE81739DC79A18BF"
+                                                    {
+                                                    "Name" = "8:VGA"
+                                                    "Condition" = "8:"
+                                                    "Property" = "8:_58576CCD3B6147868C8B4D90C6B31796"
+                                                        "Folders"
+                                                        {
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        "Product"
+        {
+        "Name" = "8:Microsoft Visual Studio"
+        "ProductName" = "8:MobileRemote"
+        "Manufacturer" = "8:mobileSRC"
+        "OSVersionMin" = "8:4.0"
+        "OSVersionMax" = "8:6.99"
+        "NoUninstall" = "11:FALSE"
+        "Compress" = "11:FALSE"
+        "CESetupDLL" = "8:_0D736678973C4F8B8E013A126DDB5AFD"
+        }
+        "ProjectOutput"
+        {
+            "{605BE39E-5046-48BD-AEC0-63C3A46626D5}:_0D736678973C4F8B8E013A126DDB5AFD"
+            {
+            "SourcePath" = "8:..\\MobileRemoteSetup\\Windows Mobile 6 Professional SDK (ARMV4I)\\Release\\MobileRemoteSetup.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:0"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{9BA97A80-5BFE-429D-B519-A1C4755B7161}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{605BE39E-5046-48BD-AEC0-63C3A46626D5}:_1480B5EE037740A0BD6E312E01A6D73C"
+            {
+            "SourcePath" = "8:..\\MobileRemote.Resources.QVGA\\obj\\Release\\MobileRemote.Resources.QVGA.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:0"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{0CA097AF-1847-4E2F-9DCC-2EE0A5BB0274}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{605BE39E-5046-48BD-AEC0-63C3A46626D5}:_2C5477AC9ADC40B990310FF2829FAD53"
+            {
+            "SourcePath" = "8:..\\L2CapApi\\Windows Mobile 6 Professional SDK (ARMV4I)\\Release\\MobileRemoteAPI.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:0"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{EAFACB6A-551D-49FD-973E-C14CA1C505B5}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{605BE39E-5046-48BD-AEC0-63C3A46626D5}:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+            {
+            "SourcePath" = "8:..\\MobileRemoteGUI\\obj\\Release\\MobileRemote.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:0"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{45626E6A-861B-4CA7-AD35-E9C660E01668}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{605BE39E-5046-48BD-AEC0-63C3A46626D5}:_F8A54CF9A7BB4A4ABCF4D4669C8372C2"
+            {
+            "SourcePath" = "8:..\\MobileRemote.Resources.VGA\\obj\\Release\\MobileRemote.Resources.VGA.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:0"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{A46673B6-C43A-46C6-A466-FCC2C386DA77}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{605BE39E-5046-48BD-AEC0-63C3A46626D5}:_FF568EAEAFD14666BE2F961FD79D9F53"
+            {
+            "SourcePath" = "8:..\\L2CapDev\\Windows Mobile 6 Professional SDK (ARMV4I)\\Release\\MobileRemoteDRV.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_A1CEE648BB124176B802184737651277"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:0"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{113251FA-2623-463F-8B5F-E3B0703503C7}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+        }
+        "Registry"
+        {
+            "HKLM"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKCU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKCR"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKPU"
+            {
+                "Keys"
+                {
+                }
+            }
+        }
+        "Shortcut"
+        {
+            "{971D45E9-E38C-49AC-B36E-4C5BEA533350}:_F9010D67C42749F68DC224571F130E76"
+            {
+            "Name" = "8:MobileRemote"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "Target" = "8:_A90A7CC06A494AC9A9D31FC1A1BD7F59"
+            "Folder" = "8:_5C6BE6F5A3674829835EAD47638927A7"
+            "WorkingFolder" = "8:_C41D2FBBD61D475D9A6371441FCEC960"
+            }
+        }
+    }
+}

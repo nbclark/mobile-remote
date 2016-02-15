@@ -1,0 +1,75 @@
+<KeyButtonCollection rows="7">
+  <KeyButtonRow cols="6">
+    <KeyButton row="0" col="0" Type="Tap" Key="" ShiftKey="" KeyWidth="1" ScanCode="1" IconName="escape" IconType="MobileSRC.MobileRemote.Properties.Resources, MobileRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IsScanCode="True" />
+    <KeyButton row="0" col="1" Type="Tap" Key="" ShiftKey="" KeyWidth="1" ScanCode="103" IconName="up" IconType="MobileSRC.MobileRemote.Properties.Resources, MobileRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IsScanCode="True" />
+    <KeyButton row="0" col="2" Type="Tap" Key="" ShiftKey="" KeyWidth="1" ScanCode="108" IconName="down" IconType="MobileSRC.MobileRemote.Properties.Resources, MobileRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IsScanCode="True" />
+    <KeyButton row="0" col="3" Type="Tap" Key="" ShiftKey="" KeyWidth="1" ScanCode="105" IconName="left" IconType="MobileSRC.MobileRemote.Properties.Resources, MobileRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IsScanCode="True" />
+    <KeyButton row="0" col="4" Type="Tap" Key="" ShiftKey="" KeyWidth="1" ScanCode="106" IconName="right" IconType="MobileSRC.MobileRemote.Properties.Resources, MobileRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IsScanCode="True" />
+    <KeyButton row="0" col="5" Type="Input" Key="input" ShiftKey="input" KeyWidth="5" ScanCode="105" IconName="" IconType="" IsScanCode="False" />
+  </KeyButtonRow>
+  <KeyButtonRow cols="10">
+    <KeyButton row="1" col="0" Type="Tap" Key="-" ShiftKey="_" KeyWidth="1" ScanCode="45" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="1" col="1" Type="Tap" Key="=" ShiftKey="+" KeyWidth="1" ScanCode="61" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="1" col="2" Type="Tap" Key="[" ShiftKey="{" KeyWidth="1" ScanCode="91" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="1" col="3" Type="Tap" Key="]" ShiftKey="}" KeyWidth="1" ScanCode="93" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="1" col="4" Type="Tap" Key="\" ShiftKey="|" KeyWidth="1" ScanCode="92" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="1" col="5" Type="Tap" Key=";" ShiftKey=":" KeyWidth="1" ScanCode="59" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="1" col="6" Type="Tap" Key="'" ShiftKey="&quot;" KeyWidth="1" ScanCode="39" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="1" col="7" Type="Tap" Key="," ShiftKey="&lt;" KeyWidth="1" ScanCode="44" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="1" col="8" Type="Tap" Key="." ShiftKey="&gt;" KeyWidth="1" ScanCode="46" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="1" col="9" Type="Tap" Key="/" ShiftKey="?" KeyWidth="1" ScanCode="47" IconName="" IconType="" IsScanCode="False" />
+  </KeyButtonRow>
+  <KeyButtonRow cols="10">
+    <KeyButton row="2" col="0" Type="Tap" Key="1" ShiftKey="!" KeyWidth="1" ScanCode="49" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="2" col="1" Type="Tap" Key="2" ShiftKey="@" KeyWidth="1" ScanCode="50" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="2" col="2" Type="Tap" Key="3" ShiftKey="#" KeyWidth="1" ScanCode="51" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="2" col="3" Type="Tap" Key="4" ShiftKey="$" KeyWidth="1" ScanCode="52" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="2" col="4" Type="Tap" Key="5" ShiftKey="%" KeyWidth="1" ScanCode="53" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="2" col="5" Type="Tap" Key="6" ShiftKey="^" KeyWidth="1" ScanCode="54" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="2" col="6" Type="Tap" Key="7" ShiftKey="&amp;" KeyWidth="1" ScanCode="55" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="2" col="7" Type="Tap" Key="8" ShiftKey="*" KeyWidth="1" ScanCode="56" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="2" col="8" Type="Tap" Key="9" ShiftKey="(" KeyWidth="1" ScanCode="57" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="2" col="9" Type="Tap" Key="0" ShiftKey=")" KeyWidth="1" ScanCode="48" IconName="" IconType="" IsScanCode="False" />
+  </KeyButtonRow>
+  <KeyButtonRow cols="10">
+    <KeyButton row="3" col="0" Type="Tap" Key="q" ShiftKey="Q" KeyWidth="1" ScanCode="113" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="3" col="1" Type="Tap" Key="w" ShiftKey="W" KeyWidth="1" ScanCode="119" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="3" col="2" Type="Tap" Key="e" ShiftKey="E" KeyWidth="1" ScanCode="101" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="3" col="3" Type="Tap" Key="r" ShiftKey="R" KeyWidth="1" ScanCode="114" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="3" col="4" Type="Tap" Key="t" ShiftKey="T" KeyWidth="1" ScanCode="116" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="3" col="5" Type="Tap" Key="y" ShiftKey="Y" KeyWidth="1" ScanCode="121" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="3" col="6" Type="Tap" Key="u" ShiftKey="U" KeyWidth="1" ScanCode="117" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="3" col="7" Type="Tap" Key="i" ShiftKey="I" KeyWidth="1" ScanCode="105" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="3" col="8" Type="Tap" Key="o" ShiftKey="O" KeyWidth="1" ScanCode="111" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="3" col="9" Type="Tap" Key="p" ShiftKey="P" KeyWidth="1" ScanCode="112" IconName="" IconType="" IsScanCode="False" />
+  </KeyButtonRow>
+  <KeyButtonRow cols="10">
+    <KeyButton row="4" col="0" Type="Tap" Key="a" ShiftKey="A" KeyWidth="1" ScanCode="97" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="4" col="1" Type="Tap" Key="s" ShiftKey="S" KeyWidth="1" ScanCode="115" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="4" col="2" Type="Tap" Key="d" ShiftKey="D" KeyWidth="1" ScanCode="100" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="4" col="3" Type="Tap" Key="f" ShiftKey="F" KeyWidth="1" ScanCode="102" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="4" col="4" Type="Tap" Key="g" ShiftKey="G" KeyWidth="1" ScanCode="103" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="4" col="5" Type="Tap" Key="h" ShiftKey="H" KeyWidth="1" ScanCode="104" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="4" col="6" Type="Tap" Key="j" ShiftKey="J" KeyWidth="1" ScanCode="106" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="4" col="7" Type="Tap" Key="k" ShiftKey="K" KeyWidth="1" ScanCode="107" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="4" col="8" Type="Tap" Key="l" ShiftKey="L" KeyWidth="1" ScanCode="108" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="4" col="9" Type="Tap" Key="" ShiftKey="" KeyWidth="1" ScanCode="8" IconName="backspace" IconType="MobileSRC.MobileRemote.Properties.Resources, MobileRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IsScanCode="False" />
+  </KeyButtonRow>
+  <KeyButtonRow cols="8">
+    <KeyButton row="5" col="0" Type="Tap" Key="z" ShiftKey="Z" KeyWidth="1" ScanCode="122" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="5" col="1" Type="Tap" Key="x" ShiftKey="X" KeyWidth="1" ScanCode="120" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="5" col="2" Type="Tap" Key="c" ShiftKey="C" KeyWidth="1" ScanCode="99" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="5" col="3" Type="Tap" Key="v" ShiftKey="V" KeyWidth="1" ScanCode="118" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="5" col="4" Type="Tap" Key="b" ShiftKey="B" KeyWidth="1" ScanCode="98" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="5" col="5" Type="Tap" Key="n" ShiftKey="N" KeyWidth="1" ScanCode="110" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="5" col="6" Type="Tap" Key="m" ShiftKey="M" KeyWidth="1" ScanCode="109" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="5" col="7" Type="Tap" Key="" ShiftKey="" KeyWidth="3" ScanCode="13" IconName="enter" IconType="MobileSRC.MobileRemote.Properties.Resources, MobileRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IsScanCode="False" />
+  </KeyButtonRow>
+  <KeyButtonRow cols="5">
+    <KeyButton row="6" col="0" Type="Shift" Key="" ShiftKey="" KeyWidth="2" ScanCode="16" IconName="shift" IconType="MobileSRC.MobileRemote.Properties.Resources, MobileRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IsScanCode="False" />
+    <KeyButton row="6" col="1" Type="Control" Key="ctrl" ShiftKey="ctrl" KeyWidth="2" ScanCode="131072" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="6" col="2" Type="Alternate" Key="alt" ShiftKey="alt" KeyWidth="2" ScanCode="262144" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="6" col="3" Type="Tap" Key="space" ShiftKey="space" KeyWidth="3" ScanCode="32" IconName="" IconType="" IsScanCode="False" />
+    <KeyButton row="6" col="4" Type="Windows" Key="" ShiftKey="" KeyWidth="1" ScanCode="91" IconName="windows" IconType="MobileSRC.MobileRemote.Properties.Resources, MobileRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IsScanCode="False" />
+  </KeyButtonRow>
+</KeyButtonCollection>

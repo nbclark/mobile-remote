@@ -1,0 +1,7 @@
+<application>
+<name>mobileSRC MobileRemote</name>
+<version>1.1</version>
+<description>Use your Windows Mobile phone as a Bluetooth mouse and keyboard</description>
+<versionurl>http://www.mobilesrc.com/cabs/mobileremote.xml</versionurl>
+<caburl>http://www.mobilesrc.com/cabs/mobileremotecab.cab</caburl>
+</application>

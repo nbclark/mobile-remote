@@ -1,0 +1,35 @@
+;
+; Copyright (c) Microsoft Corporation.  All rights reserved.
+;
+;
+; Use of this source code is subject to the terms of the Microsoft end-user
+; license agreement (EULA) under which you licensed this SOFTWARE PRODUCT.
+; If you did not accept the terms of the EULA, you are not authorized to use
+; this source code. For a copy of the EULA, please see the LICENSE.RTF on your
+; install media.
+;
+;
+;THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+;EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED 
+;WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.
+;
+;
+;Abstract:
+;	Windows CE Bluetooth stack layer sample
+;
+;
+LIBRARY         mobileremotedrv
+
+EXPORTS
+; BTL
+	L2C_Init
+	L2C_Deinit
+	L2C_Open
+	L2C_Close
+	L2C_Read
+	L2C_Write
+	L2C_Seek
+	L2C_IOControl
+	L2C_PowerUp
+	L2C_PowerDown
+	

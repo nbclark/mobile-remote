@@ -1,0 +1,327 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0CA097AF-1847-4E2F-9DCC-2EE0A5BB0274}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MobileSRC.MobileRemote</RootNamespace>
+    <AssemblyName>MobileRemote.Resources.QVGA</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <OSVersion>5.02</OSVersion>
+    <DeployDirSuffix>MobileSrc\mobileremote</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Marketplace|AnyCPU' ">
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <OutputPath>bin\Marketplace\</OutputPath>
+    <DefineConstants>TRACE;PocketPC</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\connected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\connected_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\disconnected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\disconnected_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\enter.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\keyboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\keyboard_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\keyboard_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\keydown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\keyset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\kget.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\media.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\media_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\media_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediacircle-down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediacircle-down_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediacircle-next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediacircle-next_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediacircle-prev.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediacircle-prev_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediacircle-up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediacircle-up_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediaorb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mediaorb_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mouse_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mouse_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\okbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\okbuttondown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\orb_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\orb_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\shift.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\titlebar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\titlebarcornerleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\titlebarcornerright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\touch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\touch_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\touch_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\touchpanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\windows.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\arrow_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\arrow_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\arrow_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\arrow_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\backspace.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\button_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\button_push.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\button_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\closebutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\closebuttondown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\settings_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\settings_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\left.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\right.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\up.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\down.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\escape.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mobileremote_splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\delete.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\menu_expand.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\menu_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\menu_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\waitingorb_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\waitingorb_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\waitingorb_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\waitingorb_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\tab.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\space.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\powerpoint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\powerpoint_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\present.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\present_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\present_sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\inputs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\inputs_down.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
